@@ -1,7 +1,7 @@
 /* 
-Project Name: Monthly Resolutions
-Client: One Month
-Author: Christopher Castig | @castig
+Project Name: One Month HTML assignment
+Client: Cthulhu
+Author: Maria Clara
 */
 
 
@@ -97,7 +97,8 @@ body {
 
 #footer {
 	padding: 20px;
-	color: white;
+	background: white;
+	border-radius: 15px;
 
 }
 /*----------------------------------------------------------------------------- 

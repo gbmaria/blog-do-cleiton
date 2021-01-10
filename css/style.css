@@ -78,7 +78,7 @@ body {
 
 
 #main {
-	border-radius: 15px;
+	border-radius: 15px 15px 0 0;
 	width: 600px;
 	float: left;
 	background: white;
@@ -92,21 +92,13 @@ body {
 	float: left;
 	background: white;
 	padding: 20px;
-
 }
 
 #footer {
-	padding: 20px;
+	padding: 10px;
 	background: white;
-	border-radius: 15px;
+	border-radius: 0 0 15px 15px;
+	width: 600px;
 
 }
-/*----------------------------------------------------------------------------- 
-02=LAYOUT  
------------------------------------------------------------------------------*/
-
-/*----------------------------------------------------------------------------- 
-03=MAIN  
------------------------------------------------------------------------------*/
-
 
